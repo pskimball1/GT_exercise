@@ -1,0 +1,7 @@
+      1 3_prime_UTR_variant
+      1 frameshift_variant&missense_variant
+      1 missense_variant&conservative_inframe_insertion
+      3 5_prime_UTR_variant
+      4 downstream_gene_variant
+      4 intron_variant
+      4 upstream_gene_variant

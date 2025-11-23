@@ -1,0 +1,4 @@
+      1 missense_variant&conservative_inframe_insertion
+      3 5_prime_UTR_variant
+     11 downstream_gene_variant
+     12 upstream_gene_variant

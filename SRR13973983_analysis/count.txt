@@ -1,0 +1,5 @@
+      2 frameshift_variant
+      4 5_prime_UTR_variant
+     11 intron_variant
+     19 upstream_gene_variant
+     23 downstream_gene_variant
